@@ -60,6 +60,9 @@ def load_listing_results(html_path) -> list[tuple]:
         listing_title = BeautifulSoup(listing_title, "html.parser").get_text(strip=True)
         results.append((listing_title, listing_id))
 
+    # ==============================
+    # YOUR CODE ENDS HERE
+    # ==============================
     return results
 
 
