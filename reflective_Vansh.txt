@@ -1,0 +1,12 @@
+1. I think the current system is somewhat effective but still has gaps. It relies heavily on hosts and platforms being 
+honest, which doesn’t always happen, so some listings can slip through without proper enforcement. A better system would 
+include stricter verification by Airbnb itself and more automated checks to ensure policy numbers are valid and up to date.
+
+2. One important factor in the legality of web scraping is whether the data is truly public and accessible without 
+bypassing protections. If scraping involves breaking terms of service or accessing restricted data, it can raise 
+legal concerns under laws like the Computer Fraud and Abuse Act. This matters because even public-looking data can still 
+have usage restrictions.
+
+3. One important guideline is to respect user privacy and avoid collecting sensitive or personally identifiable information 
+without consent. Another guideline is to use the data responsibly and only for purposes that benefit users or society, 
+rather than causing harm or misuse.
