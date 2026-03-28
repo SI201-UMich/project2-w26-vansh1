@@ -45,9 +45,6 @@ def load_listing_results(html_path) -> list[tuple]:
         list[tuple]: A list of tuples containing (listing_title, listing_id)
     """
     # TODO: Implement checkout logic following the instructions
-    # ==============================
-    # YOUR CODE STARTS HERE
-    # ==============================
        
     file1 = open(html_path, encoding="utf-8-sig")
     html = file1.read()
