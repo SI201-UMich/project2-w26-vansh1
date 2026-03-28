@@ -61,9 +61,6 @@ def load_listing_results(html_path) -> list[tuple]:
         results.append((listing_title, listing_id))
 
     return results
-    # ==============================
-    # YOUR CODE ENDS HERE
-    # ==============================
 
 
 def get_listing_details(listing_id) -> dict:
